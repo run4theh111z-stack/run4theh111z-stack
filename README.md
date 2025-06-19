@@ -39,7 +39,7 @@
 
 📧 kowalewski.michal04@gmail.com  
 📍 Lusówko, Polska  
-🌐 [GitHub](https://github.com/twoj-login)
+🌐 [GitHub](https://github.com/run4theh111z-stack)
 
 ---
 
