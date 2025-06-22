@@ -32,5 +32,5 @@
 ## 🧾 Certyfikaty
 
 - ✔️ Kurs Python – Code with Mosh
-- ✔️ Szkolenie językowo-kulturowe (Portugalia)
 - ✔️ Praktyki badawcze: PAN – Instytut Fizyki Molekularnej
+- ✔️ Szkolenie językowo-kulturowe (Portugalia)
