@@ -27,7 +27,7 @@
 ### 📈 Klasyfikator jakości produktów (demo ML)  
 > Symulacja klasyfikatora jakości na danych testowych z produkcji.  
 > **Stack:** Python, scikit-learn  
-> [🔗 Zobacz repozytorium](https://github.com/twoj-login/product-classifier)
+> [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/product-quality-classifier)
 
 ## 🧾 Certyfikaty
 
