@@ -17,12 +17,12 @@
 ### 🗣️ Chatbot AI (LangChain + OpenAI API)  
 > Prosty chatbot z pamięcią kontekstową oparty na modelu GPT-3.5 i frameworku LangChain.  
 > **Stack:** Python, Streamlit, OpenAI API  
-> [🔗 Zobacz repozytorium](https://github.com/twoj-login/chatbot-ai)
+> [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/chatbot-ai)
 
 ### 📊 Analiza danych z eksperymentu IR  
 > Przetwarzanie widm IR nanomateriałów (dane z PAN), wykresy w Origin, analiza w Pythonie.  
 > **Stack:** Python (matplotlib, pandas), Origin  
-> [🔗 Zobacz repozytorium](https://github.com/twoj-login/ir-data-analysis)
+> [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/analiza_IR)
 
 ### 📈 Klasyfikator jakości produktów (demo ML)  
 > Symulacja klasyfikatora jakości na danych testowych z produkcji.  
