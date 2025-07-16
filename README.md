@@ -15,12 +15,12 @@
 ## 🛠️ Moje Projekty
 
 ### 📊 Analiza danych z eksperymentu IR  
-> Przetwarzanie widm IR nanomateriałów (dane z PAN), wykresy w Origin, analiza w Pythonie.
+> Przetwarzanie widm IR nanomateriałów (dane z PAN), wykresy w Origin, analiza w Pythonie.  
 > **Stack:** Python (matplotlib, pandas), Origin  
 > [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/analiza_IR)
 
 ### 🧾 AutoReflect – AI-powered Personal Insight Engine
-> Projekt automatyzacji autorefleksji i analizy mocnych/słabych stron z wykorzystaniem OpenAI GPT i Make.com
+> Projekt automatyzacji autorefleksji i analizy mocnych/słabych stron z wykorzystaniem OpenAI GPT i Make.com  
 > **Stack:** Make.com, Telegram Bot API, OpenAI API (ChatGPT), Notion API  
 > [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/AutoReflect-AI-powered-Personal-Insight-Engine)
 
