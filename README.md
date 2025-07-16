@@ -16,7 +16,6 @@
 
 ### 📊 Analiza danych z eksperymentu IR  
 > Przetwarzanie widm IR nanomateriałów (dane z PAN), wykresy w Origin, analiza w Pythonie.
-
 > **Stack:** Python (matplotlib, pandas), Origin  
 > [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/analiza_IR)
 
