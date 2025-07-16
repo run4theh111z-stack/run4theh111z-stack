@@ -1,6 +1,6 @@
 # 👋 Cześć! Jestem Michał Kowalewski
 
-🎓 Młody inżynier z wykształceniem w zakresie Fizyki Technicznej (Politechnika Poznańska), pasjonujący się sztuczną inteligencją, analizą danych oraz tworzeniem rozwiązań w Pythonie. Szukam możliwości rozwoju jako **AI Developer** w środowisku, które ceni innowacje, przejrzysty kod i optymalizację procesów.
+🎓 Młody magister inżynier z wykształceniem w zakresie Fizyki Technicznej (Politechnika Poznańska), pasjonujący się sztuczną inteligencją, analizą danych oraz tworzeniem rozwiązań w Pythonie. Szukam możliwości rozwoju jako **AI Developer** w środowisku, które ceni innowacje, przejrzysty kod i optymalizację procesów.
 
 ## 🚀 Technologie i narzędzia, które znam i wykorzystuję
 
