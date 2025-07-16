@@ -19,6 +19,11 @@
 > **Stack:** Python (matplotlib, pandas), Origin  
 > [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/analiza_IR)
 
+### 🧾 AutoReflect – AI-powered Personal Insight Engine
+> Projekt automatyzacji autorefleksji i analizy mocnych/słabych stron z wykorzystaniem OpenAI GPT i Make.com
+> **Stack:** Make.com, Telegram Bot API, OpenAI API (ChatGPT), Notion API  
+> [🔗 Zobacz repozytorium](https://github.com/run4theh111z-stack/AutoReflect-AI-powered-Personal-Insight-Engine)
+
 ### 🗣️ Chatbot AI (LangChain + OpenAI API)  
 > Prosty chatbot z pamięcią kontekstową oparty na modelu GPT-3.5 i frameworku LangChain.  
 > **Stack:** Python, Streamlit, OpenAI API  
